@@ -2,7 +2,7 @@ package cn.rpc.service;
 
 /**
  * @author xurw
- * @description .
+ * @description 定义服务对外暴露的接口
  * @date 2021/1/20
  */
 public interface UserService {

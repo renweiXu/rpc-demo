@@ -4,10 +4,12 @@ import cn.rpc.service.UserService;
 
 /**
  * @author xurw
- * @description .
+ * @description 服务提供方
  * @date 2021/1/20
  */
 public class UserServiceImpl implements UserService {
+
+
     /**
      * 根据id 获取名称服务
      *
